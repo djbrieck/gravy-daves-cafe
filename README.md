@@ -1,12 +1,12 @@
 # This is standard HTML Boilerplate site made custom for Gravy Daves Cafe
 
-For more information see [html5 Bolierplate docs](https://github.com/h5bp/html5-boilerplate/blob/main/docs/usage.md:w
+For more information see [html5 Boilerplate docs](https://github.com/h5bp/html5-boilerplate/blob/main/docs/usage.md
 )
 ## Required software to build
 
 1. A current LTS Release of [Node.js](https://nodejs.org/en/download)
 
-### To run for local deveolopment run the following:
+### To run for local development run the following:
 
     npm run start
 
@@ -14,4 +14,4 @@ For more information see [html5 Bolierplate docs](https://github.com/h5bp/html5-
 
     mpm run build
 
-Files to be released / distributed will be placed in the foler named `dist`
+Files to be released / distributed will be placed in the folder named `dist` copy its contents to standard web hosting provider or add to [IPFS](https://ipfs.tech/) to deploy.
