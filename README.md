@@ -8,6 +8,7 @@ For more information see [html5 Boilerplate docs](https://github.com/h5bp/html5-
 
 ### To run for local development run the following:
 
+    npm ci
     npm run start
 
 ### To build for release run the following:
