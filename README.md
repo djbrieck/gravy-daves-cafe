@@ -1,6 +1,6 @@
-# This is standard HTML Boilerplate site made custom for Gravy Daves Cafe
+# This is a standard HTML Boilerplate site made custom for Gravy Dave's Cafe
 
-For more information see [html5 Boilerplate docs](https://github.com/h5bp/html5-boilerplate/blob/main/docs/usage.md
+For more information, see [html5 Boilerplate docs](https://github.com/h5bp/html5-boilerplate/blob/main/docs/usage.md
 )
 ## Required software to build
 
