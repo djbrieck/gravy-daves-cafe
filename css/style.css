@@ -18,6 +18,12 @@ html {
   margin: 0em 1em 0em;
 }
 
+body {
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    background-color:	#E8E8E8;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
@@ -244,12 +250,6 @@ textarea {
   h2,
   h3 {
     page-break-after: avoid;
-  }
-
-  body {
-    padding: 3.3em;
-    margin: 3.3em;
-    background-color:gray;
   }
 
 }
