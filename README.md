@@ -1,4 +1,4 @@
-# This is a standard HTML Boilerplate site made custom for Gravy Dave's Orginal
+# This is a standard HTML Boilerplate site made custom for Gravy Dave's Original
 
 For more information, see [html5 Boilerplate docs](https://github.com/h5bp/html5-boilerplate/blob/main/docs/usage.md
 )
