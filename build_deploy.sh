@@ -7,10 +7,10 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-echo "Attempting to add dist directory to ipfs"
-PUBLIC_HASH=$(ipfs add -rQ dist/ )
+echo "Attempting to add dist directory to ipfs cluster"
+PUBLIC_HASH=$(ipfs-cluster-ctl add -r -Q dist/ )
 if [ $? -ne 0 ]; then
-    echo  "Add to IPFS failed!"
+    echo  "Add to IPFS Cluster failed!"
     exit 2
 fi
 
