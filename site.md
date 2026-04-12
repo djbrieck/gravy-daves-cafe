@@ -7,15 +7,15 @@
 
 # ── Identity ──────────────────────────────────────────────────────────────────
 
-name: ""
-github: ""
+name: "Gravy Dave's Diner"
+github: "https://github.com/djbrieck/gravy-daves-cafe"
 
 
 # ── Operator (who runs this unofficial site) ──────────────────────────────────
 
-operator: ""
-operator_url: ""
-operator_support_url: ""        # optional — remove line if not needed
+operator: "Brieck's Pro"
+operator_url: "https://brieckspro.com/"
+operator_support_url: "https://brieckspro.com/value-for-value/"        # optional — remove line if not needed
 
 
 # ── Favicon ───────────────────────────────────────────────────────────────────
@@ -25,8 +25,8 @@ operator_support_url: ""        # optional — remove line if not needed
 # background: square background color (#rrggbb)
 
 favicon:
-  letter: ""
-  font: ""
+  letter: "G"
+  font: "Georgia"
   color: ""
   background: ""
 
