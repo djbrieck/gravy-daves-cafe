@@ -27,30 +27,31 @@ operator_support_url: "https://brieckspro.com/value-for-value/"        # optiona
 favicon:
   letter: "G"
   font: "Georgia"
-  color: ""
-  background: ""
+  color: "#1c352d"
+  background: "#ff878d"
 
 
 # ── Contact ───────────────────────────────────────────────────────────────────
 
-location: ""
+location: "359 N Main St, Union, OR 97883"
 email: ""
-phone: ""
+phone: "(541) 624-0244"
 
 
 # ── Hours ─────────────────────────────────────────────────────────────────────
 # One line per entry, e.g. "Monday - Friday: 9AM to 5PM"
 
 hours:
-  - ""
+  - "Monday - Saturday: 8:00AM to 2:00PM"
+  - "Sunday: Closed"
 
 
 # ── Links ─────────────────────────────────────────────────────────────────────
 # Social media, review sites, etc.
 
 links:
-  - label: ""
-    url: ""
+  - label: "Facebook: Gravy Daves Dinner"
+    url: "https://www.facebook.com/profile.php?id=61588528673167"
 
 
 # ── Menu ──────────────────────────────────────────────────────────────────────
@@ -58,22 +59,7 @@ links:
 # Remove this section entirely if not needed.
 
 menu:
-  - label: ""
-    url: ""
-
-
-# ── Services ──────────────────────────────────────────────────────────────────
-# One line per service offered.
-# Remove this section entirely if not needed.
-
-services:
-  - ""
-
-
-# ── Photos ────────────────────────────────────────────────────────────────────
-# Files should live in the img/ folder next to this site.md.
-# Remove this section entirely if not needed.
-
-photos:
-  - label: ""
-    url: "img/"
+  - label: "Menu - PDF"
+    url: "docs/GravyDavesMenu.pdf"
+  - label: "Menu - Plain Text"
+    url: "docs/menu.html"
